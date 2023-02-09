@@ -112,3 +112,53 @@ header {
   font-size: 25px;
   color: #737272;
 }
+
+/* footer  */
+footer {
+  display: flex;
+  align-items: center;
+  gap: 330px;
+  background: #151414;
+  padding: 130px 230px;
+}
+
+.feature_title {
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+}
+
+.feature_description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+
+.subscribe_title {
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+
+.input_email {
+  padding: 20px;
+  font-weight: 400;
+  font-size: 18px;
+  color: #f3f3f3;
+  border-radius: 5px;
+}
+
+.subscribe_btn {
+  height: 64px;
+  background: #005fac;
+  border-radius: 8px;
+  font-weight: 600;
+font-size: 20px;
+  color: #ffffff;
+  padding: 20px;
+  border: none;
+  margin-right: 230px;
+  margin-top: 30px;
+}
