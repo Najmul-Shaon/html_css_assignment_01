@@ -5,8 +5,7 @@
 
 /* banner  */
 header{
-    background-image: url('/images/banner/banner3.png');
-    /* width: 100%; */
+    background-image: url('images/banner/banner3.png');
     height: 808px;
     background-repeat: no-repeat;
 }
