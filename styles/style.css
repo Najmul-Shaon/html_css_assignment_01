@@ -1,16 +1,16 @@
 /* universal selectors  */
-*{
-    font-family: 'Work Sans', sans-serif;
+* {
+  font-family: "Work Sans", sans-serif;
 }
 
 /* banner  */
-header{
-    background-image: url('images/banner/banner3.png');
-    height: 808px;
-    background-repeat: no-repeat;
+header {
+  background-image: url("/images/banner/banner3.png");
+  height: 808px;
+  background-repeat: no-repeat;
 }
-.banner_header{
-    font-weight: 700;
-font-size: 65px;
-color: #FFFFFF;
+.banner_header {
+  font-weight: 700;
+  font-size: 65px;
+  color: #ffffff;
 }
