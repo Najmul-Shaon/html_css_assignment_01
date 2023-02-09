@@ -8,9 +8,36 @@ header {
   background-image: url("../images/banner/banner3.png");
   height: 808px;
   background-repeat: no-repeat;
+  direction: rtl;
 }
 .banner_header {
   font-weight: 700;
   font-size: 65px;
   color: #ffffff;
+  padding-top: 216px;
+  padding-right: 230px;
+  padding-left: 800px;
+  /* margin-bottom: 24px;*/
+}
+
+.banner_decription {
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+  padding-right: 230px;
+  padding-left: 800px;
+  margin-top: 25px;
+}
+
+.btn_primary {
+  height: 64px;
+  background: #ffffff;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #005fac;
+  padding: 20px;
+  border: none;
+  margin-right: 230px;
+  margin-top: 30px;
 }
