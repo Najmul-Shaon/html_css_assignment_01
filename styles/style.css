@@ -41,3 +41,37 @@ header {
   margin-right: 230px;
   margin-top: 30px;
 }
+
+/* previous failure  */
+.failure_history {
+  display: flex;
+  align-items: center;
+  gap: 87px;
+  margin-left: 205px;
+  margin-right: 320px;
+}
+
+.failure_title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+
+.failure_decription {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-bottom: 16px;
+}
+.failure_list {
+  list-style: none;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  padding: 0px;
+}
+
+.fa-solid {
+  color: #16d887;
+}
