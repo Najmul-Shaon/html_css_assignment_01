@@ -75,3 +75,40 @@ header {
 .fa-solid {
   color: #16d887;
 }
+
+/* plan  */
+.plan_container {
+  margin-top: 130px;
+}
+
+.plan_title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+}
+
+.plan_cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 86px;
+  /* margin-left: 230px;
+  margin-right: 230px; */
+  margin: 50px 230px 230px 130px;
+}
+
+.plan_card {
+  text-align: center;
+}
+
+.plan_sub_title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+}
+
+.plan_description {
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
+}
