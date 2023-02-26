@@ -7,18 +7,23 @@
 /* banner  */
 header {
   background-image: url("../images/banner/banner3.png");
-  height: 808px;
+  /* height: 808px; */
+  height: 135vh;
   background-repeat: no-repeat;
   direction: rtl;
-  margin-bottom: 130px;
+  /* margin-bottom: 130px; */
+
 }
 .banner_header {
   font-weight: 700;
-  font-size: 65px;
+  /* font-size: 65px; */
+  font-size: 4rem;
   color: #ffffff;
-  padding-top: 216px;
-  padding-right: 230px;
-  padding-left: 800px;
+  padding: 13.5rem 14.3rem 0 ;
+  /* padding-top: 216px; */
+  /* padding-right: 230px; */
+  /* padding-left: 800px; */
+  text-align: right;
 }
 
 .banner_decription {
